@@ -8,10 +8,6 @@ print()
 # Verander de waarde van de onderstaande variabelen.
 # Print deze daarna 1 voor 1 uit
 
-naam = ""
-leeftijd = 0
-woonstad = ""
-
 # Oefening 3
 # Gebruik nu bovenstaande variabelen om zinnen te bouwen
 # Bijvoorbeeld print("Hallo mijn naam is ", naam) of print(f"Mijn naam is {naam}")
